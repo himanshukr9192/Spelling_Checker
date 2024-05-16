@@ -25,3 +25,5 @@ It is designed to work with the English language.
 
 ## Metrics 
 The model is evaluated based on the Character Error Rate (CER) metric.
+## Use Case
+![image](https://github.com/himanshukr9192/Spelling_Checker/assets/99739276/a41a9228-ec84-495f-a164-727b77259701)
