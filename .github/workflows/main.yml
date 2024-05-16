@@ -14,4 +14,4 @@ jobs:
     - name: Push to hub
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
-      run: git push https://Himanshu9192:$HF_TOKEN@huggingface.co/spaces/Himanshu9192/Spelling_Checker main
+      run: git push https://Himanshu9192:$HF_TOKEN@huggingface.co/spaces/Himanshu9192-Spelling_Checker1 main
