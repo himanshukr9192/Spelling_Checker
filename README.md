@@ -12,7 +12,7 @@ widget:
 - text: "No plya for today"
 metrics:
 - cer
-- sdk: gradio
+sdk: gradio
 ---
 
 
